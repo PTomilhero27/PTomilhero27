@@ -1,1 +1,1 @@
-<h1 aling="center">Olá seja bem vindo</h1>
+<h1 align="center">Olá seja bem vindo</h1>
