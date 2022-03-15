@@ -3,7 +3,8 @@
 <p align="center"> 
   oi meu nome é Pedro, tenho 19 anos e sou programador Front-End, embusca do Full-Stack <br/>
   minhas trilhas de estudos está sendo por volta do React/Next.js, React-Native e node! <br/>
-  Entrando nessa vida de Youtube, buscando ensinar aqueles que querem aprender sobre Programação
+  Entrando nessa vida de Youtube, buscando ensinar aqueles que querem aprender sobre Programação <br>
+  Estou fazendo faculdade e curso de inglês para melhorar meu desempenho como programador!
 </p>
 
 <div  >
