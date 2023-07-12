@@ -1,8 +1,12 @@
 <h1 align="center">Olá seja bem vindo</h1>
 
 <p align="center"> 
-  oi meu nome é Pedro, tenho 21 anos e sou programador Front-End, embusca do Full-Stack <br/>
-  minhas trilhas de estudos está sendo por volta do React/Angular, React-Native, node e .net! <br/>
+  Olá! Meu nome é Pedro, tenho 21 anos e sou um programador Front-End em busca do conhecimento Full-Stack. <br>
+  Minhas principais trilhas de estudo incluem React,   Angular, React Native, Node.js e .NET <br> 
+  Estou constantemente aprimorando minhas habilidades e buscando novos desafios. <br>
+  Adoro trabalhar em projetos inovadores e colaborar com equipes talentosas. <br>
+  <strong> Seja bem-vindo ao meu perfil no GitHub! </strong>
+  
 </p>
 
 <div align="center">
